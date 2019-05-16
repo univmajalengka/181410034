@@ -3,7 +3,7 @@
 #include <string.h>
 #include <iostream>
 using namespace std;
- struct nab
+ struct nasabah
 {
    char namaLengkap[50];
    char alamatRumah[100];
